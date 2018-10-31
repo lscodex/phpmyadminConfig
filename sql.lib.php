@@ -9,7 +9,11 @@ function PMA_isRememberSortingOrder($analyzed_sql_results)
         && $analyzed_sql_results['select_from']
         && ((empty($analyzed_sql_results['select_expr']))
 <<<<<<< HEAD
+<<<<<<< HEAD
             || (count($analyzed_sql_results['select_expr']) == 1)
+=======
+            || (count($analyzed_sql_results['select_expr'])== 1)
+>>>>>>> 3b53db0a6a3aee3c4f9a6dab49bd1116c8b02500
 =======
             || (count($analyzed_sql_results['select_expr'])== 1)
 >>>>>>> 3b53db0a6a3aee3c4f9a6dab49bd1116c8b02500
