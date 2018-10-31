@@ -1,5 +1,5 @@
 # Phpmyadmin Solution 
- plugin interface proble on Ubuntu 18.10 
+ plugin interface problem on Ubuntu 18.10 
 ## Getting Started 
  
  This is my first project ! 
