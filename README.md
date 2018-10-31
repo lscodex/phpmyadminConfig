@@ -1,0 +1,2 @@
+# phpmyadminConfig
+Test
