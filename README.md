@@ -22,7 +22,11 @@
 ### Solution
 The above,You can access the function that in the part of the file from.
 replace the function to yours. 
-
+finally
+```
+sudo service apache2 restart
+```
+restart the apache2 server
 Thats it.
  
    
