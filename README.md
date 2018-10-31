@@ -10,14 +10,14 @@
 
 ### Installing
   if you get this error on phpmyadmin page:
-  '''
+  ```
   ./libraries/plugin_interface.lib.php #551
-  '''
+  ```
   then,
   You look up the error.log from the apache2 and saw the paranthesis error that:
-  '''
+  ```
   /var/log/apache2/error.log 
-  '''
+  ```
 
 ### Solution
 The above,You can access the function that in the part of the file from.
